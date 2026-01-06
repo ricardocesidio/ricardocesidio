@@ -22,6 +22,5 @@ That early curiosity grew into a long-term focus on the web as a craft: how inte
 ## Languages
 🇬🇧 ![English](https://img.shields.io/badge/English-Fluent-blue)
 🇵🇹 ![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-blue)
-
 🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Learning-yellow)
 🇵🇱 ![Polish](https://img.shields.io/badge/Polish-Learning-yellow) 
