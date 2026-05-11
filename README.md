@@ -31,6 +31,9 @@ What started as curiosity evolved into a long-term commitment to frontend develo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=fontawesome&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-FFD700?style=flat&logo=html5&logoColor=black)
 
 ## Languages
 🇬🇧 ![English](https://img.shields.io/badge/English-Fluent-purple)
