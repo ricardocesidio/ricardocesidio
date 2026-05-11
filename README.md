@@ -9,10 +9,12 @@ What started as curiosity evolved into a long-term commitment to frontend develo
 
 ## What I Work On
 
-- Frontend development with a strong focus on JavaScript
-- Gradually transitioning to TypeScript
-- Building interfaces that prioritize clarity and usability
-- Writing code meant to be read, not just run
+Frontend development with JavaScript and modern UI patterns
+Gradually transitioning to TypeScript for stronger maintainability and scalability
+Building interfaces that prioritize clarity, usability, and visual consistency
+Writing code that is structured, readable, and easy to maintain
+Creating responsive, polished user experiences across desktop and mobile
+Turning ideas into practical frontend products with clean architecture
 
 ---
 ## Skills
