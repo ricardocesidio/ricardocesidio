@@ -1,6 +1,10 @@
 # 👋 Hi, I build for the web
 
-💻 I’ve been building for the web since my teenage years, beginning in the Blogspot era, where I learned by experimenting with layouts, themes, and content long before “frontend” became a formal role. What started as curiosity evolved into a long-term commitment to frontend development and digital craftsmanship. I care deeply about how interfaces feel, how code is structured, and how thoughtful details shape the overall user experience. Over time, that interest has grown into a focus on building polished, intuitive, and maintainable products that balance visual quality with technical clarity.
+💻 I’ve been building for the web since my teenage years, beginning in the Blogspot era, where I learned by experimenting with layouts, themes, and content long before “frontend” became a formal role.
+
+What started as curiosity evolved into a long-term commitment to frontend development and digital craftsmanship. I care deeply about how interfaces feel, how code is structured, and how thoughtful details shape the overall user experience. Over time, that interest has grown into a focus on building polished, intuitive, and maintainable products that balance visual quality with technical clarity.
+
+
 ---
 
 ## What I Work On
