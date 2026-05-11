@@ -9,12 +9,12 @@ What started as curiosity evolved into a long-term commitment to frontend develo
 
 ## What I Work On
 
-Frontend development with JavaScript and modern UI patterns
-Gradually transitioning to TypeScript for stronger maintainability and scalability
-Building interfaces that prioritize clarity, usability, and visual consistency
-Writing code that is structured, readable, and easy to maintain
-Creating responsive, polished user experiences across desktop and mobile
-Turning ideas into practical frontend products with clean architecture
+- Frontend development with JavaScript and modern UI patterns
+- Gradually transitioning to TypeScript for stronger maintainability and scalability
+- Building interfaces that prioritize clarity, usability, and visual consistency
+- Writing code that is structured, readable, and easy to maintain
+- Creating responsive, polished user experiences across desktop and mobile
+- Turning ideas into practical frontend products with clean architecture
 
 ---
 ## Skills
@@ -33,7 +33,7 @@ Turning ideas into practical frontend products with clean architecture
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=fontawesome&logoColor=white)
 
 ## Languages
-🇬🇧 ![English](https://img.shields.io/badge/English-Fluent-blue)
-🇵🇹 ![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-blue)
-🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Basic-yellow)
+🇬🇧 ![English](https://img.shields.io/badge/English-Fluent-purple)
+🇵🇹 ![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-purple)
+🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Basic-blue)
 🇵🇱 ![Polish](https://img.shields.io/badge/Polish-Learning-yellow) 
