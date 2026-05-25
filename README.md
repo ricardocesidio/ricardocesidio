@@ -7,7 +7,8 @@
   ·
   <a href="https://linkedin.com/in/ricardocesidio">💼 LinkedIn</a>
 </p>
----
+
+
 ## 🚀 Featured Project
 ### [🎮 Retro Collection Tracker](https://retro-collection-tracker.vercel.app)
 Full-stack retro game collection platform with real-time chat, RAWG API integration, trade system, XP progression, and PWA support.
