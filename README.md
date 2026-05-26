@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ricardo</h1>
+<h1 align="center">I'm Ricardo Cesídio</h1>
 <h3 align="center">Front-End Developer · React · TypeScript</h3>
 <p align="center">
   <a href="https://retro-collection-tracker.vercel.app">🌐 Live Demo</a>
