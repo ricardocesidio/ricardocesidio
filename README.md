@@ -24,6 +24,14 @@ DevOps:    Docker · GitHub Actions · Vercel · Render · Neon
 **Testing:** Vitest · Playwright · Storybook  
 **DevOps:** Docker · GitHub Actions · Vercel · Render · Neon  
 ---
+## 🤖 AI-Assisted Development
+
+I use AI tools professionally throughout the software development lifecycle to accelerate research, architecture planning, implementation, debugging, testing, documentation, and code review.
+
+**AI workflow:** Prompt engineering · AI-assisted coding · Debugging · Refactoring · Test generation · Technical documentation · Code review
+
+I treat AI as an engineering tool: I validate generated solutions, review security and performance implications, and ensure the final code is maintainable and production-ready.
+
 ## 📬 Contact
 ricardocesidio@hotmail.com · [LinkedIn](https://linkedin.com/in/ricardocesidio) · [GitHub](https://github.com/ricardocesidio)
 
