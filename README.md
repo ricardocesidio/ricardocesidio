@@ -1,68 +1,105 @@
-<h1 align="center">I'm Ricardo Cesídio</h1>
-<h3 align="center">Front-End Developer · React · TypeScript</h3>
+<h1 align="center">Hi, I'm Ricardo Cesídio</h1>
+
+<h3 align="center">Front-End Developer · React · TypeScript · AI-Assisted Development</h3>
+
 <p align="center">
-  <a href="https://retro-collection-tracker.vercel.app">🌐 Live Demo</a>
-  ·
-  <a href="https://github.com/ricardocesidio">📁 GitHub</a>
-  ·
-  <a href="https://linkedin.com/in/ricardocesidio">💼 LinkedIn</a>
+  I build modern, responsive web applications with strong UI/UX, clean architecture, and real product thinking.
 </p>
 
+<p align="center">
+  <a href="https://retro-collection-tracker.vercel.app">Live Demo</a>
+  ·
+  <a href="https://github.com/ricardocesidio">GitHub</a>
+  ·
+  <a href="https://linkedin.com/in/ricardocesidio">LinkedIn</a>
+  ·
+  <a href="mailto:ricardocesidio@hotmail.com">Email</a>
+</p>
 
-## 🚀 Featured Project
-### [🎮 Retro Collection Tracker](https://retro-collection-tracker.vercel.app)
-Full-stack retro game collection platform with real-time chat, RAWG API integration, trade system, XP progression, and PWA support.
-Frontend:  React 19 · TypeScript · Vite · SCSS · Socket.IO
-Backend:   NestJS · Prisma · PostgreSQL · JWT
-Testing:   Vitest · Playwright · Storybook
-DevOps:    Docker · GitHub Actions · Vercel · Render · Neon
-> [Second project](https://retro-gaming-cyan.vercel.app) — 17-page retro gaming marketplace SPA (React 18, React Router, CSS3)
 ---
-## 🛠 Tech
-**Frontend:** React · TypeScript · Vite · React Router · SCSS · Socket.IO  
-**Backend:** NestJS · Node.js · PostgreSQL · Prisma · JWT · REST  
-**Testing:** Vitest · Playwright · Storybook  
-**DevOps:** Docker · GitHub Actions · Vercel · Render · Neon  
+
+## About Me
+
+I'm a Front-End Developer from Portugal focused on React, TypeScript, responsive interfaces, and full-stack web applications.
+
+I like building projects that feel like real products: polished UI, clear user flows, authentication, dashboards, APIs, databases, testing, deployment, and documentation.
+
+I also use AI tools professionally as part of my development workflow. I use AI for research, planning, debugging, refactoring, testing, documentation, and code review - but I always validate the result, review the code, and make sure the final solution is maintainable and production-ready.
+
 ---
-## 🤖 AI-Assisted Development
 
-I use AI tools professionally throughout the software development lifecycle to accelerate research, architecture planning, implementation, debugging, testing, documentation, and code review.
+## Tech Stack
 
-**AI workflow:** Prompt engineering · AI-assisted coding · Debugging · Refactoring · Test generation · Technical documentation · Code review
+### Frontend
 
-I treat AI as an engineering tool: I validate generated solutions, review security and performance implications, and ensure the final code is maintainable and production-ready.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat\&logo=sass\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white)
 
-## 📬 Contact
-ricardocesidio@hotmail.com · [LinkedIn](https://linkedin.com/in/ricardocesidio) · [GitHub](https://github.com/ricardocesidio)
+### Backend & Data
 
-## Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat&logo=playwright&logoColor=white)
-![RAWG](https://img.shields.io/badge/RAWG_API-662D91?style=flat&logo=api&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=flat\&logo=nestjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socket.io\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat\&logo=openai\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat\&logo=stripe\&logoColor=white)
+
+### Testing & Tools
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat\&logo=vitest\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat\&logo=playwright\&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat\&logo=storybook\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat\&logo=render\&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat\&logo=neon\&logoColor=black)
+
+---
+
+## AI-Assisted Development
+
+I use AI as an engineering tool to work faster and think better.
+
+**I use AI for:**
+
+* Research and architecture planning
+* Debugging and refactoring
+* Test generation
+* Documentation
+* Code review
+* Prompt engineering
+* Exploring better implementation options
+
+I always review, test, and improve AI-generated code before treating it as finished.
+
+---
 
 ## Languages
-🇬🇧 ![English](https://img.shields.io/badge/English-Fluent-purple)
-🇵🇹 ![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-purple)
-🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Basic-blue)
-🇵🇱 ![Polish](https://img.shields.io/badge/Polish-Learning-yellow) 
+
+![English](https://img.shields.io/badge/English-Fluent-purple)
+![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-purple)
+![Spanish](https://img.shields.io/badge/Spanish-Basic-blue)
+![Polish](https://img.shields.io/badge/Polish-Learning-yellow)
+
+---
+
+## Contact
+
+Email: [ricardocesidio@hotmail.com](mailto:ricardocesidio@hotmail.com)
+LinkedIn: [https://linkedin.com/in/ricardocesidio](https://linkedin.com/in/ricardocesidio)
+GitHub: [https://github.com/ricardocesidio](https://github.com/ricardocesidio)
+
+---
+
+<p align="center">
+  Building polished web applications with clean code, strong UX, and AI-assisted engineering workflows.
+</p>
