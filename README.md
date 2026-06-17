@@ -6,7 +6,7 @@
 
 I build modern, responsive web applications with strong UI/UX, clean architecture, and real product thinking.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)]([https://ricardocesidio.vercel.app](https://portfolio-xi-one-5uqk228i5s.vercel.app))
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-xi-one-5uqk228i5s.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-b300ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardocesidio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff0066?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardocesidio)
 [![Email](https://img.shields.io/badge/EMAIL-00f0ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ricardocesidio@hotmail.com)
