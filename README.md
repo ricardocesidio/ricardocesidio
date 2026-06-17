@@ -13,7 +13,6 @@ I build modern, responsive web applications with strong UI/UX, clean architectur
 
 </div>
 
----
 
 <div align="center">
 
@@ -27,7 +26,6 @@ I also use AI tools professionally as part of my development workflow. I use AI 
 
 </div>
 
----
 
 <div align="center">
 
@@ -68,7 +66,6 @@ I also use AI tools professionally as part of my development workflow. I use AI 
 
 </div>
 
----
 
 <div align="center">
 
@@ -81,7 +78,6 @@ I also use AI tools professionally as part of my development workflow. I use AI 
 
 </div>
 
----
 
 <div align="center">
 
