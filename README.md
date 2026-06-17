@@ -65,23 +65,6 @@ I also use AI tools professionally as part of my development workflow. I use AI 
 
 ---
 
-## AI-Assisted Development
-
-I use AI as an engineering tool to work faster and think better.
-
-**I use AI for:**
-
-* Research and architecture planning
-* Debugging and refactoring
-* Test generation
-* Documentation
-* Code review
-* Prompt engineering
-* Exploring better implementation options
-
-I always review, test, and improve AI-generated code before treating it as finished.
-
----
 
 ## Languages
 
